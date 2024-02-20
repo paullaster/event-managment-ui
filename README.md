@@ -1,4 +1,4 @@
-# lunar
+# event managment
 
 ## Project setup
 ```
